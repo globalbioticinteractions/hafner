@@ -1,4 +1,7 @@
 { 
   "_comment": "Sample GloBI dataset descriptor. See http://github.com/globalbioticinteractions for more information.",
-  "format": "hafner"
+  "format": "hafner",
+  "resources": {
+    "hafner/gopher_lice_int.csv": "gopher_lice_int.csv"
+  }
 }
